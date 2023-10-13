@@ -1,6 +1,6 @@
 # WFC (Waste Free Chef)
 <p align="center">
-  <img src="https://media.tenor.com/7drLi0EGeKkAAAAi/pepe-clown-band-clown-band.gif" alt="Waste Free Chef" />
+  <img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/4d38f954-fd21-4c6e-b27d-80ad1a5321c2" width="300"/>
 </p>
 
 **Authors:** [Harsh](https://github.com/basedharsh),[Manan](https://github.com/MananKabra), [Shrivatsa](https://github.com/SHRIVATSA-D) ,[Sharvil](https://github.com/dodomyg)
