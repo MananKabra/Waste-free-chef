@@ -58,5 +58,17 @@ Thank you for your interest in our app! We hope that our app will help reduce fo
 
 ## Food Privider Form
 <img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/b903b31f-0391-4a46-abb5-a80059ecf1d7" width="200"/>
-<img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/7ff241a6-c9ac-4520-a09d-3813bf726881" width="200"/>
 <img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/23ec3243-2481-4956-a930-64015c608908" width="200"/>
+<img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/7ff241a6-c9ac-4520-a09d-3813bf726881" width="200"/>
+
+
+## Map Page
+<img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/56b58f47-06de-4513-886f-e79a0e2d73a0" width="200"/>
+<img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/2189cc5f-c37d-4811-9cd7-e9c311a00864" width="200"/>
+<img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/a34f06b2-2bad-4bd0-accd-1a868334526e" width="200"/>
+
+
+## Chat Bot and Feedback
+<img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/2393aa94-40de-4087-8c84-ffc5dadf1ad0" width="200"/>
+<img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/4f986642-2c39-442e-a864-2f0d7db2869a" width="200"/>
+<img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/e7ca1317-1ddf-40cc-bdba-5813d0629404" width="200"/>
