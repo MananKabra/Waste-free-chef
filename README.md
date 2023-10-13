@@ -23,9 +23,9 @@ We have used the following technologies to build this app:
 - Dialogflow for query bot integration
 - Mapbox API for location-based services
 
-## Custom API
+## Database Management
 
-We have created our own API to manage and store data for the app. The API allows us to retrieve data from the Firebase database and process it in a customized way. This enables us to provide a more tailored experience for our users.
+We have used Firebase to manage and store data for the app and helps the food providers to manage the orders data. This enables us to provide a more tailored experience for our users.
 
 ## Query Bot
 
@@ -43,3 +43,6 @@ To get started with the app, you will need to install Flutter on your system. On
 ## Conclusion
 
 Thank you for your interest in our app! We hope that our app will help reduce food waste and provide food to those in need. If you have any questions or feedback, please feel free to contact us.
+
+
+![Screenshot_1697224424](https://github.com/MananKabra/Waste-free-chef/assets/89775656/bd7e474b-471c-43a2-83cd-014929751b6d)
