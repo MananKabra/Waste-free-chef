@@ -1,6 +1,4 @@
-
 <p align="center">
-  WFC (Waste Free Chef)
   <img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/4d38f954-fd21-4c6e-b27d-80ad1a5321c2" width="400"/>
 </p>
 
