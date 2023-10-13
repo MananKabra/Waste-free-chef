@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  **Authors:** [Harsh](https://github.com/basedharsh),[Manan](https://github.com/MananKabra), [Shrivatsa](https://github.com/SHRIVATSA-D) ,[Sharvil](https://github.com/dodomyg)
+  [Harsh](https://github.com/basedharsh), [Manan](https://github.com/MananKabra), [Shrivatsa](https://github.com/SHRIVATSA-D), [Sharvil](https://github.com/dodomyg)
 </p>
 
 
