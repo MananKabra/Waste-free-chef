@@ -45,9 +45,9 @@ To get started with the app, you will need to install Flutter on your system. On
 Thank you for your interest in our app! We hope that our app will help reduce food waste and provide food to those in need. If you have any questions or feedback, please feel free to contact us.
 
 ## Login and Signup
-<img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/bd7e474b-471c-43a2-83cd-014929751b6d" width="300"/>
-<img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/09f64013-470a-4f84-8794-0a0aff106aab" width="300"/>
-<img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/b590f4a3-4341-40da-9685-fa55f37cf32e" width="300"/>
+<img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/bd7e474b-471c-43a2-83cd-014929751b6d" width="200"/>
+<img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/09f64013-470a-4f84-8794-0a0aff106aab" width="200"/>
+<img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/b590f4a3-4341-40da-9685-fa55f37cf32e" width="200"/>
 
 
 ## Technologies Used
