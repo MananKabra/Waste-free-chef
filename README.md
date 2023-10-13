@@ -72,3 +72,9 @@ Thank you for your interest in our app! We hope that our app will help reduce fo
 <img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/e7ca1317-1ddf-40cc-bdba-5813d0629404" width="200"/>
 <img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/4f986642-2c39-442e-a864-2f0d7db2869a" width="200"/>
 <img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/2393aa94-40de-4087-8c84-ffc5dadf1ad0" width="200"/>
+
+
+## Orders Approval
+<img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/cfa8632e-599f-4900-bab1-a7fbe167b8fa" width="200"/>
+<img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/3ae5611a-4753-4525-8085-5b6eeb9271b0" width="200"/>
+<img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/178f0f29-3cd1-4a21-adc1-5e0d9abbb548" width="200"/>
