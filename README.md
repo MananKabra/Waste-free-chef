@@ -1,8 +1,12 @@
 <p align="center">
-  <img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/4d38f954-fd21-4c6e-b27d-80ad1a5321c2" width="400"/>
+  <img src="https://github.com/MananKabra/Waste-free-chef/assets/89775656/4d38f954-fd21-4c6e-b27d-80ad1a5321c2" width="500"/>
 </p>
 
-**Authors:** [Harsh](https://github.com/basedharsh),[Manan](https://github.com/MananKabra), [Shrivatsa](https://github.com/SHRIVATSA-D) ,[Sharvil](https://github.com/dodomyg)
+<p align="center">
+  **Authors:** [Harsh](https://github.com/basedharsh),[Manan](https://github.com/MananKabra), [Shrivatsa](https://github.com/SHRIVATSA-D) ,[Sharvil](https://github.com/dodomyg)
+</p>
+
+
 
 ## Introduction
 
