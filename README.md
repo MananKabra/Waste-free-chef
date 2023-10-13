@@ -46,3 +46,4 @@ Thank you for your interest in our app! We hope that our app will help reduce fo
 
 
 ![Screenshot_1697224424](https://github.com/MananKabra/Waste-free-chef/assets/89775656/bd7e474b-471c-43a2-83cd-014929751b6d | width=100)
+<img src="[https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/MananKabra/Waste-free-chef/assets/89775656/bd7e474b-471c-43a2-83cd-014929751b6d)https://github.com/MananKabra/Waste-free-chef/assets/89775656/bd7e474b-471c-43a2-83cd-014929751b6d" width="200" height="400" />
